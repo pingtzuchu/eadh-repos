@@ -25,6 +25,8 @@ https://github.com/IQSS/dataverse
 
 https://github.com/kanripo
 
+https://github.com/pingtzuchu/KanripoXML
+
 https://github.com/skruse/PLATIN
 
 https://github.com/stanfordnlp/CoreNLP
